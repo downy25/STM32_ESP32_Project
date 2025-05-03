@@ -1,0 +1,7 @@
+../Core/Src/uart.c:23:5:_write	1
+../Core/Src/uart.c:30:6:initUart1	1
+../Core/Src/uart.c:37:6:initUart2	1
+../Core/Src/uart.c:44:6:clearRxWifiBuffer1	1
+../Core/Src/uart.c:50:6:HAL_UART_RxCpltCallback	3
+../Core/Src/uart.c:72:9:getUart1	2
+../Core/Src/uart.c:83:9:getUart2	2

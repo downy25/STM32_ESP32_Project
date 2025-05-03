@@ -1,0 +1,13 @@
+../Core/Src/main.c:106:5:main	1
+../Core/Src/main.c:200:6:SystemClock_Config	3
+../Core/Src/main.c:242:13:MX_TIM1_Init	7
+../Core/Src/main.c:317:13:MX_TIM3_Init	8
+../Core/Src/main.c:384:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:417:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:450:13:MX_GPIO_Init	1
+../Core/Src/main.c:496:6:StartDefaultTask	1
+../Core/Src/main.c:514:6:ApModeFunc	1
+../Core/Src/main.c:533:6:funcMotor	1
+../Core/Src/main.c:552:6:funcRgbLED	1
+../Core/Src/main.c:572:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:589:6:Error_Handler	1

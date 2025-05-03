@@ -1,0 +1,13 @@
+../Core/Src/app.c:25:6:motorStopTimerCallback	16	static
+../Core/Src/app.c:31:6:appMotor	24	static
+../Core/Src/app.c:146:7:receiveWifi	16	static
+../Core/Src/app.c:195:6:waitForResponse	24	static
+../Core/Src/app.c:209:6:sendWifi	16	static
+../Core/Src/app.c:214:6:sendWifiCommand	16	static
+../Core/Src/app.c:217:7:receiveWifiPacket	16	static
+../Core/Src/app.c:231:6:processAPmode	272	static
+../Core/Src/app.c:331:6:defaultApp	8	static
+../Core/Src/app.c:337:6:msCallback	4	static
+../Core/Src/app.c:346:6:Esp32ApmodeWifi	8	static
+../Core/Src/app.c:361:6:setRGB	16	static
+../Core/Src/app.c:368:6:rgbLEDapp	8	static

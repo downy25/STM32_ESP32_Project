@@ -1,0 +1,9 @@
+../Core/Src/app.c:22:7:receiveWifi	7
+../Core/Src/app.c:71:6:waitForResponse	3
+../Core/Src/app.c:85:6:sendWifi	1
+../Core/Src/app.c:90:6:sendWifiCommand	1
+../Core/Src/app.c:93:7:receiveWifiPacket	2
+../Core/Src/app.c:107:6:processAPmode	17
+../Core/Src/app.c:206:6:defaultApp	1
+../Core/Src/app.c:212:6:msCallback	3
+../Core/Src/app.c:221:6:Esp32ApmodeWifi	1

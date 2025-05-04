@@ -6,3 +6,7 @@ station쪽에 달려있는 모터 및 RGB LED를 제어하는 프로젝트
 
 # Block Diagram
 ![image](https://github.com/user-attachments/assets/a87a190a-18da-4680-8ddd-5b7cc7a01fdf)
+
+# Video
+https://www.youtube.com/shorts/r7rvjhtev2E
+(주의사항) 모터 동작유무는 소리로만 판단가능하므로 소리를 켜고 영상을 시청해주시기 바랍니다.
